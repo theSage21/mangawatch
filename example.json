@@ -1,0 +1,16 @@
+{
+    "tg_token": "your own bot token",
+    "uid": "uid obtained from userinfobot",
+  "titles": [
+    "boku no hero academia",
+    "hajime no ippo",
+    "one piece",
+    "the gamer"
+  ],
+  "notified": [
+    "boku no hero academia 282",
+    "boku no hero academia 283",
+    "one piece 989",
+    "the gamer 344"
+  ]
+}
